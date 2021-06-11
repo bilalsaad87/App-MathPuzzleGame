@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Plus - The Best Math Puzzle Game'
